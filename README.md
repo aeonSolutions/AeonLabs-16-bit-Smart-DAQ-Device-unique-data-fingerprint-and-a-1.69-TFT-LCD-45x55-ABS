@@ -112,7 +112,10 @@ The PCB gerber files are located in the folder "gerber" and are ready to order o
 <br>
 <br>
 
-![](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png)
+<p align="center">
+    <img src="https://github.com/aeonSolutions/AeonLabs-rev-10-2023-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/media/pcb_front.png" width="400px">
+</p>
+
 
 <br>
 <br>
