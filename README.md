@@ -25,7 +25,7 @@ Fully working
 
 <br>
 
-## Known faults
+## Known Issues
 - PCB copper track optimizations
 - components rearrangement for optimization of PCB track inductance 
 
