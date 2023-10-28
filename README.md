@@ -61,31 +61,7 @@ The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL)
 <br>
 
 ### Smart PCB Hardware Specifications
-The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are the following:
-
-
-- QFN 56 Dual Xtensa LX7 Core Processors running up to 240MHz
-  -	RISC V ultra-low power co-processor
-  - 512Kb RAM (PSRAM max 1 Gb);
-  - 16Mb SOIC 8 NOR SPI Flash Memory (max 1Gb);
-  - 2.4GHz ISM wireless connectivity;
-  - Up to 118 12bit ADC Multiplexed DAQ channels;
-- Authentication & Security:
-  - SOIC-8 ATSHA204A SHA-256 high-security hardware authentication IC for secure and unique experimental data exchange
-- Power management
-  - DFN-6 AUR9718 high efficiency step-down 3.3V 1.5A DC converter;
-- Onboard sensors:
-  - DFN-8 SHT3.x; temperature sensor with a precision of 1.5C;
-  - DFN-8 SHT3.x humidity sensor;
-  - LGA-14 LSM6DS3 a 6-axis accelerometer and gyroscope;
-  - reference voltage sensor calibration with temperature and humidity
-  - 16-bit ADC AD5693 IC
-- 	External connectivity for up to 118 sensors:
-  -  1x I2C pin terminal connector (shared)
-  -  1x 16bit analog terminal connector with manual scale selection ohmmeter via dip switch pin
-  -  12bit voltage reference analyzer with temperature compensation 
-- 1.69 inch TFT IPS LCD  
-
+The hardware specifications for this 16-bit pcb with dimensions of 23.5x43.5mm can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/16‐bit-Smart-DAQ-Hardware-revision-"10‐2023").
 
 <br>
 <br>
