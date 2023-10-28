@@ -15,17 +15,13 @@
 # Revision "10-2023" of the 16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS
 This is the repository for revision "10-2023" of the 16-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository. This specific hardware electronics utilizes the ADC IC AD5693 from Analog Devices. More information about this ADC IC [here](https://www.analog.com/en/products/ad5693.html). 
 
-
-<br>
 <br>
 
-**Status**
-
-Fully working
+**Status:** Fully working
 
 <br>
 
-## Known Issues
+**Known Issues** <br>
 - PCB copper track optimizations
 - components rearrangement for optimization of PCB track inductance 
 
@@ -41,7 +37,6 @@ The photo above is one of the many specimens I purposely fabricated to research 
 In the photo above the smart DAQ is installed on an acrylic case and screwed with plastic screws to an acrylic base with the same cross-section area as the specimen to be tested. 
 The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL). And the acrylic case [here](https://s.click.aliexpress.com/e/_Dmudkjt). 
 
-<br>
 <br>
 
 ## Dataverse API C library
