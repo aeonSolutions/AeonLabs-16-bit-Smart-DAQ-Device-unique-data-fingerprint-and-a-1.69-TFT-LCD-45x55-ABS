@@ -1,4 +1,4 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)  >> Wieght Scales >> Smart 24-bit Hydrostatic Weight Scale
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)  >> S.D.A.D.
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a>  <br>
