@@ -7,10 +7,17 @@ Last change 15-02-2024
 
 <br>
 
-This folder contains the KiCad Project files for the Smart Data Acquisition Device , the S.D.A.D.,  used on my Open Science projects. Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) . If you like it and use it on your own hardware designs please support this project, [click here](https://github.com/sponsors/aeonSolutions) to learn how. <br> Thank you 🙏. 
+This folder contains the KiCad Project files for the Smart Data Acquisition Device, the S.D.A.D.,  used on my Open Science projects. Each KiCad project is available with a [creative commons share alike non-commercial license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) . 
+<p align="center">
+  <strong> <a href="https://aeonsolutions.github.io/portfolio/hardware_electronics/laboratory/">Interactive web view of the PCB Layout</a> </strong> <br>
+ <sup>Click to view the latest revision of the PCB Layout</sup>
+</p>
+
+However, they're not fully complete. If you like it and are looking to use it on your projects, you can download the complete Kicad project files with a one-time donation, [click here](https://github.com/sponsors/aeonSolutions) to learn how,  and don't forget to include it in a message the name of the module/hardware electronics you need. <br> Thank you 🙏.
+
 
 ### Support all these open hardware projects and become a GitHub sponsor  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
+Did you like any of my PCB KiCad Designs? Help and Support my open work to all by becoming a GitHub sponsor.
 
 <p align="center">
     <a href="">
