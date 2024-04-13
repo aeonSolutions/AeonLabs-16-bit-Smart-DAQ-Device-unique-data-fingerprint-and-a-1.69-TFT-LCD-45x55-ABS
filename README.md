@@ -20,6 +20,8 @@ Last update: 12-04-2024
 # 16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS
 This is the repository for the 16-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository. This specific hardware electronics utilizes the ADC IC AD5693 from Analog Devices. More information about this ADC IC [here](https://www.analog.com/en/products/ad5693.html). 
 
+<br>
+
 <p align="center">
 <strong> <a href="https://aeonsolutions.github.io/sponsor/sdad/2ch/">Interactive view of the PCB Layout</a> </strong> &nbsp;
   <strong> <a href="https://aeonsolutions.github.io/sponsor/sdad/2ch/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
@@ -80,7 +82,28 @@ https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
 </a> 
 </p>
 
+## CE Ready Logo
+This hardware is ready to get a CE marking. To learn more about this marking goto to [Wikipedia here](https://en.wikipedia.org/wiki/CE_marking).
+
+<p align="center">
+   <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/CE_READY.png">
+</p>
+
 <br>
+
+### Sponsor Open Hardware Solutions [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+AeonLabs invests time and resources in providing this open-source hardware electronics. <br>
+Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
 <br>
 
 ### Smart PCB Hardware Specifications
