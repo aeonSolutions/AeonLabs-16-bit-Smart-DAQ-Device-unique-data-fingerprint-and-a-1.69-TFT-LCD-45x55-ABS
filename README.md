@@ -78,7 +78,7 @@ https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
 <br>
 
 ### Smart PCB Hardware Specifications
-The hardware specifications for this 16-bit pcb with dimensions of 23.5x43.5mm can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/16‐bit-Smart-DAQ-Hardware-revision-"10‐2023").
+The hardware specifications for this 16-bit PCB with dimensions of 23.5x43.5mm can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/16‐bit-Smart-DAQ-Hardware-Specifications).
 
 <br>
 <br>
