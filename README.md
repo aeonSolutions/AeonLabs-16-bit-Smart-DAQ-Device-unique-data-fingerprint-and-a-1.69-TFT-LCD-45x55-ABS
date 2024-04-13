@@ -21,7 +21,7 @@ This is the repository for revision "10-2023" of the 16-bit Smart DAQ Device wit
 
 <br>
 
-**Known Issues** <br>
+**rev. 10-2023 Known Issues** <br>
 - PCB copper track optimizations
 - components rearrangement for optimization of PCB track inductance 
 
