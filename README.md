@@ -41,7 +41,7 @@ Known Issues: <br>
 - PCB copper track optimizations
 - components rearrangement for optimization of PCB track inductance
 - poor design of the ground plane on the power management zone of the PCB
-- The ultra-deep sleep power management does not work as intended. 
+- The ultra-deep sleep power management does not work as intended. This is now solved in revision 05-2024.
 
 
 <p align="center">
@@ -52,14 +52,13 @@ Known Issues: <br>
 <br>
 <br>
 
+The photo below is one of the many specimens I purposely fabricated to research the self-sensing properties of asphalt mixed with a known content of carbon fibers. This is a 10cm cylinder specimen and on the top is already set up my own design smart #DAQ (get it here on my GitHub ) with the ability to upload LIVE experimental data to a #dataverse. The smart DAQ is installed on an acrylic case and screwed with plastic screws to an acrylic base with the same cross-section area as the specimen to be tested. 
+
+The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL). And the acrylic case [here](https://s.click.aliexpress.com/e/_Dmudkjt). 
+
 <p align="center">
   <img height=300 src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/smartAsphaltSample.jpeg" >
 </p>
-
-The photo above is one of the many specimens I purposely fabricated to research the self-sensing properties of asphalt mixed with a known content of carbon fibers. This is a 10cm cylinder specimen and on the top is already setup my own design smart #DAQ (get it here on my GitHub ) with the ability to upload LIVE experimental data to a #dataverse.
-
-In the photo above the smart DAQ is installed on an acrylic case and screwed with plastic screws to an acrylic base with the same cross-section area as the specimen to be tested. 
-The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL). And the acrylic case [here](https://s.click.aliexpress.com/e/_Dmudkjt). 
 
 <br>
 
