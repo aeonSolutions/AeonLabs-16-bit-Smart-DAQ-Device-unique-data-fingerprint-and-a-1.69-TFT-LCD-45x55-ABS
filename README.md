@@ -20,7 +20,9 @@ Last update: 12-04-2024
 # 16-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD 45x55 ABS
 This is the repository for the 16-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository. This specific hardware electronics utilizes the ADC IC AD5693 from Analog Devices. More information about this ADC IC [here](https://www.analog.com/en/products/ad5693.html). 
 
-<br>
+<p align="center">
+   <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-16-bit-Smart-DAQ-Device-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/media/sdad_assemble_wires.jpeg">
+</p>
 
 <p align="center">
 <strong> <a href="https://aeonsolutions.github.io/sponsor/sdad/2ch/">Interactive view of the PCB Layout</a> </strong> &nbsp;
