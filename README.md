@@ -38,6 +38,17 @@ This is the repository for the 16-bit Smart DAQ Device with a unique data finger
 
 <br>
 
+### rev. 10-2024
+status: being designed in KiCad <br>
+Known Issues: <br>
+- ..
+
+<p align="center">
+    <img src="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/blob/main/media/revision_10_2024_16bit_lcd.jpg" width="300px">
+</p>
+
+<br>
+
 ### rev. 10-2023
 status: Fully working <br>
 Known Issues: <br>
